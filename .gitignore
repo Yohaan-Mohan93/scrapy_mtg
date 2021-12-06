@@ -1,5 +1,5 @@
-/bin
-/include
-/lib
-/lib64
-/share
+/venv/lib/python3.8/site-packages/
+/venv/include/site/python3.8/greenlet/
+/venv/bin/
+/venv/share/python-wheels/
+/.idea/
